@@ -1,0 +1,30 @@
+Metric,Target,Bonus
+Kills,0,-9999.0
+Kills,5,-50.0
+Kills,10,-10.0
+Kills,25,0.0
+Kills,40,3.0
+KDA,1.0,-1.5
+KDA,2.0,0.5
+KDA,3.0,1.5
+Headshot %,0,-50
+Headshot %,10,0
+Headshot %,20,-1.0
+Headshot %,40,0.5
+Headshot %,60,1.5
+Damage Made,2000,-1.0
+Damage Made,3000,0.5
+Damage Made,5500,2.0
+Length,600,-0.5
+Length,1800,0.5
+Win,0,-3.0
+Win,1,2.0
+Round Differential,-5,-2
+Round Differential,0,0.5
+Round Differential,5,1
+Damage Ratio,1,-5
+Damage Ratio,3,3
+Assists,5,-0.5
+Assists,15,1
+Deaths,15,-1.5
+Deaths,5,0.5
